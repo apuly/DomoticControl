@@ -1,0 +1,4 @@
+HOST: "0.0.0.0"
+PORT: 25566
+DC_INFO_PATH: "data/DC_info.yaml"
+URI: "postgresql+pypostgresql://username:password@127.0.0.1:5432/domoticcontrol"

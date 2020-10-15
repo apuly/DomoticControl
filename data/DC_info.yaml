@@ -1,0 +1,3 @@
+ID: 1
+firmware_version: 0.0 (alpha)
+protocol_version: 1  #there's space for 255 protocol version btw
